@@ -1,0 +1,32 @@
+package Recursion;
+
+public class MaxElement {
+
+//VOID METHOD
+    static void maxInArray1(int arr[], int index, int max) {
+        if (arr.length == index) {
+            System.out.println(max);
+            return;
+        }
+        if (max < arr[index])
+            max = arr[index];
+        maxInArray1(arr, index + 1, max);
+    }
+
+//RETURN METHOD
+    static int maxElementArray(int arr[], int index) {
+        if (arr.length - 1 == index) {
+            return arr[index];
+        }
+
+        int max = maxElementArray(arr, index + 1);
+        return Math.max(arr[index], max);
+    }
+
+    public static void main(String[] args) {
+        int[] arr = { 2, 1, 5, 3, 8, 3, 9, 0 };
+        maxInArray1(arr, 0, 0);
+        int a = maxElementArray(arr, 0);
+        System.out.println(a);
+    }
+}
