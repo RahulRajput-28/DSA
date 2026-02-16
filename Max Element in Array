@@ -2,7 +2,7 @@ package Recursion;
 
 public class MaxElement {
 
-//VOID METHOD
+
     static void maxInArray1(int arr[], int index, int max) {
         if (arr.length == index) {
             System.out.println(max);
@@ -13,7 +13,7 @@ public class MaxElement {
         maxInArray1(arr, index + 1, max);
     }
 
-//RETURN METHOD
+
     static int maxElementArray(int arr[], int index) {
         if (arr.length - 1 == index) {
             return arr[index];
