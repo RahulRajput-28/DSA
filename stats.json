@@ -1,13 +1,13 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-14",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 0,
     "medium": 4,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "syncedProblems": {
@@ -15,16 +15,18 @@
     "GeeksForGeeks_Longest_Common_Substring": true,
     "LeetCode_Longest_Palindromic_Subsequence": true,
     "LeetCode_Minimum_Insertion_Steps_to_Make_a_String_Palindrome": true,
-    "LeetCode_Delete_Operation_for_Two_Strings": true
+    "LeetCode_Delete_Operation_for_Two_Strings": true,
+    "LeetCode_Shortest_Common_Supersequence_": true
   },
   "activityHistory": {
-    "2026-08-14": 5
+    "2026-08-14": 6
   },
   "todayProblems": [
     "Longest Common Subsequence",
     "Longest Common Substring",
     "Longest Palindromic Subsequence",
     "Minimum Insertion Steps to Make a String Palindrome",
-    "Delete Operation for Two Strings"
+    "Delete Operation for Two Strings",
+    "Shortest Common Supersequence "
   ]
 }
