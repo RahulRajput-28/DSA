@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 4,
+    "medium": 5,
     "hard": 3,
     "basic": 0
   },
@@ -18,13 +18,15 @@
     "LeetCode_Delete_Operation_for_Two_Strings": true,
     "LeetCode_Shortest_Common_Supersequence_": true,
     "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true,
-    "LeetCode_Distinct_Subsequences": true
+    "LeetCode_Distinct_Subsequences": true,
+    "LeetCode_Edit_Distance": true
   },
   "activityHistory": {
     "2026-08-14": 7,
-    "2026-08-15": 1
+    "2026-08-15": 2
   },
   "todayProblems": [
-    "Distinct Subsequences"
+    "Distinct Subsequences",
+    "Edit Distance"
   ]
 }
