@@ -9,3 +9,4 @@
 | 7 | [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) | [LeetCode](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | Easy | 14 Aug 2026 | 07:30 pm |
 | 8 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 15 Aug 2026 | 02:30 pm |
 | 9 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 15 Aug 2026 | 03:27 pm |
+| 10 | [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) | [LeetCode](https://leetcode.com/problems/wildcard-matching/) | Hard | 15 Aug 2026 | 04:17 pm |
