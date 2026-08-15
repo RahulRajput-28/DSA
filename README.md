@@ -10,3 +10,4 @@
 | 8 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 15 Aug 2026 | 02:30 pm |
 | 9 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 15 Aug 2026 | 03:27 pm |
 | 10 | [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) | [LeetCode](https://leetcode.com/problems/wildcard-matching/) | Hard | 15 Aug 2026 | 04:17 pm |
+| 11 | [Longest Increasing Subsequence](./GeeksForGeeks/Medium/Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | 15 Aug 2026 | 05:14 pm |
