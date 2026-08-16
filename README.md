@@ -15,3 +15,4 @@
 | 13 | [Longest String Chain](./LeetCode/Medium/Longest%20String%20Chain) | [LeetCode](https://leetcode.com/problems/longest-string-chain/) | Medium | 16 Aug 2026 | 03:21 pm |
 | 14 | [Print Longest Increasing Subsequence](./GeeksForGeeks/Medium/Print%20Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | Medium | 16 Aug 2026 | 06:24 pm |
 | 15 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 16 Aug 2026 | 06:32 pm |
+| 16 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 16 Aug 2026 | 06:57 pm |

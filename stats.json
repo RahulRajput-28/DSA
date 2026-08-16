@@ -1,11 +1,11 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-16",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 9,
     "hard": 4,
     "basic": 0
@@ -25,17 +25,19 @@
     "LeetCode_Largest_Divisible_Subset": true,
     "LeetCode_Longest_String_Chain": true,
     "GeeksForGeeks_Print_Longest_Increasing_Subsequence": true,
-    "LeetCode_Reverse_String": true
+    "LeetCode_Reverse_String": true,
+    "LeetCode_Reverse_Vowels_of_a_String": true
   },
   "activityHistory": {
     "2026-08-14": 7,
     "2026-08-15": 4,
-    "2026-08-16": 4
+    "2026-08-16": 5
   },
   "todayProblems": [
     "Largest Divisible Subset",
     "Longest String Chain",
     "Print Longest Increasing Subsequence",
-    "Reverse String"
+    "Reverse String",
+    "Reverse Vowels of a String"
   ]
 }
