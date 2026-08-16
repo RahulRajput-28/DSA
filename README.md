@@ -16,3 +16,4 @@
 | 14 | [Print Longest Increasing Subsequence](./GeeksForGeeks/Medium/Print%20Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | Medium | 16 Aug 2026 | 06:24 pm |
 | 15 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 16 Aug 2026 | 06:32 pm |
 | 16 | [Reverse Vowels of a String](./LeetCode/Easy/Reverse%20Vowels%20of%20a%20String) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | 16 Aug 2026 | 06:57 pm |
+| 17 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 16 Aug 2026 | 07:23 pm |
