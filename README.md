@@ -12,3 +12,4 @@
 | 10 | [Wildcard Matching](./LeetCode/Hard/Wildcard%20Matching) | [LeetCode](https://leetcode.com/problems/wildcard-matching/) | Hard | 15 Aug 2026 | 04:17 pm |
 | 11 | [Longest Increasing Subsequence](./GeeksForGeeks/Medium/Longest%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1) | Medium | 15 Aug 2026 | 05:14 pm |
 | 12 | [Largest Divisible Subset](./LeetCode/Medium/Largest%20Divisible%20Subset) | [LeetCode](https://leetcode.com/problems/largest-divisible-subset/) | Medium | 16 Aug 2026 | 01:54 pm |
+| 13 | [Longest String Chain](./LeetCode/Medium/Longest%20String%20Chain) | [LeetCode](https://leetcode.com/problems/longest-string-chain/) | Medium | 16 Aug 2026 | 03:21 pm |
