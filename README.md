@@ -19,3 +19,4 @@
 | 17 | [Intersection of Two Arrays](./LeetCode/Easy/Intersection%20of%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 16 Aug 2026 | 07:23 pm |
 | 18 | [Intersection of Two Arrays II](./LeetCode/Easy/Intersection%20of%20Two%20Arrays%20II) | [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | 16 Aug 2026 | 07:42 pm |
 | 19 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 16 Aug 2026 | 07:57 pm |
+| 20 | [Longest Bitonic Subsequence](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | Medium | 17 Aug 2026 | 10:42 am |

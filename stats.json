@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-08-16",
-  "todayCount": 8,
+  "totalSolved": 20,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-17",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 9,
+    "medium": 10,
     "hard": 4,
     "basic": 0
   },
@@ -29,21 +29,16 @@
     "LeetCode_Reverse_Vowels_of_a_String": true,
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Intersection_of_Two_Arrays_II": true,
-    "LeetCode_Is_Subsequence": true
+    "LeetCode_Is_Subsequence": true,
+    "GeeksForGeeks_Longest_Bitonic_Subsequence": true
   },
   "activityHistory": {
     "2026-08-14": 7,
     "2026-08-15": 4,
-    "2026-08-16": 8
+    "2026-08-16": 8,
+    "2026-08-17": 1
   },
   "todayProblems": [
-    "Largest Divisible Subset",
-    "Longest String Chain",
-    "Print Longest Increasing Subsequence",
-    "Reverse String",
-    "Reverse Vowels of a String",
-    "Intersection of Two Arrays",
-    "Intersection of Two Arrays II",
-    "Is Subsequence"
+    "Longest Bitonic Subsequence"
   ]
 }
