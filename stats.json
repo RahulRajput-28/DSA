@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 10,
+    "medium": 11,
     "hard": 4,
     "basic": 0
   },
@@ -30,15 +30,17 @@
     "LeetCode_Intersection_of_Two_Arrays": true,
     "LeetCode_Intersection_of_Two_Arrays_II": true,
     "LeetCode_Is_Subsequence": true,
-    "GeeksForGeeks_Longest_Bitonic_Subsequence": true
+    "GeeksForGeeks_Longest_Bitonic_Subsequence": true,
+    "LeetCode_Number_of_Longest_Increasing_Subsequence": true
   },
   "activityHistory": {
     "2026-08-14": 7,
     "2026-08-15": 4,
     "2026-08-16": 8,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "Longest Bitonic Subsequence"
+    "Longest Bitonic Subsequence",
+    "Number of Longest Increasing Subsequence"
   ]
 }
