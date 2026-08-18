@@ -21,3 +21,4 @@
 | 19 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 16 Aug 2026 | 07:57 pm |
 | 20 | [Longest Bitonic Subsequence](./GeeksForGeeks/Medium/Longest%20Bitonic%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | Medium | 17 Aug 2026 | 10:42 am |
 | 21 | [Number of Longest Increasing Subsequence](./LeetCode/Medium/Number%20of%20Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | 17 Aug 2026 | 02:00 pm |
+| 22 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 10:06 am |
