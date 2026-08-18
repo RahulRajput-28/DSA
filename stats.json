@@ -1,11 +1,11 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 11,
     "hard": 4,
     "basic": 0
@@ -33,17 +33,19 @@
     "GeeksForGeeks_Longest_Bitonic_Subsequence": true,
     "LeetCode_Number_of_Longest_Increasing_Subsequence": true,
     "LeetCode_Find_the_Largest_Almost_Missing_Integer": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "LeetCode_Pascal's_Triangle_II": true
   },
   "activityHistory": {
     "2026-08-14": 7,
     "2026-08-15": 4,
     "2026-08-16": 8,
     "2026-08-17": 2,
-    "2026-08-18": 2
+    "2026-08-18": 3
   },
   "todayProblems": [
     "Find the Largest Almost Missing Integer",
-    "Pascal's Triangle"
+    "Pascal's Triangle",
+    "Pascal's Triangle II"
   ]
 }

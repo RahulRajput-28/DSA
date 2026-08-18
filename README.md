@@ -23,3 +23,4 @@
 | 21 | [Number of Longest Increasing Subsequence](./LeetCode/Medium/Number%20of%20Longest%20Increasing%20Subsequence) | [LeetCode](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | 17 Aug 2026 | 02:00 pm |
 | 22 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 10:06 am |
 | 23 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 18 Aug 2026 | 10:30 am |
+| 24 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 18 Aug 2026 | 10:32 am |
