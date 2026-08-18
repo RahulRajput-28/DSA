@@ -24,3 +24,4 @@
 | 22 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 10:06 am |
 | 23 | [Pascal's Triangle](./LeetCode/Easy/Pascal's%20Triangle) | [LeetCode](https://leetcode.com/problems/pascals-triangle/) | Easy | 18 Aug 2026 | 10:30 am |
 | 24 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 18 Aug 2026 | 10:32 am |
+| 25 | [Counting Bits](./LeetCode/Easy/Counting%20Bits) | [LeetCode](https://leetcode.com/problems/counting-bits/) | Easy | 18 Aug 2026 | 10:44 am |
