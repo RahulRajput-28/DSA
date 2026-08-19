@@ -26,3 +26,4 @@
 | 24 | [Pascal's Triangle II](./LeetCode/Easy/Pascal's%20Triangle%20II) | [LeetCode](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | 18 Aug 2026 | 10:32 am |
 | 25 | [Counting Bits](./LeetCode/Easy/Counting%20Bits) | [LeetCode](https://leetcode.com/problems/counting-bits/) | Easy | 18 Aug 2026 | 10:44 am |
 | 26 | [Divisor Game](./LeetCode/Easy/Divisor%20Game) | [LeetCode](https://leetcode.com/problems/divisor-game/) | Easy | 19 Aug 2026 | 09:11 am |
+| 27 | [Maximum Repeating Substring](./LeetCode/Easy/Maximum%20Repeating%20Substring) | [LeetCode](https://leetcode.com/problems/maximum-repeating-substring/) | Easy | 19 Aug 2026 | 09:46 am |

@@ -1,11 +1,11 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 11,
     "hard": 4,
     "basic": 0
@@ -36,7 +36,8 @@
     "LeetCode_Pascal's_Triangle": true,
     "LeetCode_Pascal's_Triangle_II": true,
     "LeetCode_Counting_Bits": true,
-    "LeetCode_Divisor_Game": true
+    "LeetCode_Divisor_Game": true,
+    "LeetCode_Maximum_Repeating_Substring": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -44,9 +45,10 @@
     "2026-08-16": 8,
     "2026-08-17": 2,
     "2026-08-18": 4,
-    "2026-08-19": 1
+    "2026-08-19": 2
   },
   "todayProblems": [
-    "Divisor Game"
+    "Divisor Game",
+    "Maximum Repeating Substring"
   ]
 }
