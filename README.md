@@ -31,3 +31,4 @@
 | 29 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 21 Aug 2026 | 02:10 pm |
 | 30 | [Relative Ranks](./LeetCode/Easy/Relative%20Ranks) | [LeetCode](https://leetcode.com/problems/relative-ranks/) | Easy | 21 Aug 2026 | 08:51 pm |
 | 31 | [Longest Harmonious Subsequence](./LeetCode/Easy/Longest%20Harmonious%20Subsequence) | [LeetCode](https://leetcode.com/problems/longest-harmonious-subsequence/) | Easy | 21 Aug 2026 | 09:21 pm |
+| 32 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 21 Aug 2026 | 09:43 pm |
