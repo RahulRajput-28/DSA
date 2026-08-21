@@ -28,3 +28,4 @@
 | 26 | [Divisor Game](./LeetCode/Easy/Divisor%20Game) | [LeetCode](https://leetcode.com/problems/divisor-game/) | Easy | 19 Aug 2026 | 09:11 am |
 | 27 | [Maximum Repeating Substring](./LeetCode/Easy/Maximum%20Repeating%20Substring) | [LeetCode](https://leetcode.com/problems/maximum-repeating-substring/) | Easy | 19 Aug 2026 | 09:46 am |
 | 28 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 21 Aug 2026 | 12:59 am |
+| 29 | [Array Partition](./LeetCode/Easy/Array%20Partition) | [LeetCode](https://leetcode.com/problems/array-partition/) | Easy | 21 Aug 2026 | 02:10 pm |
