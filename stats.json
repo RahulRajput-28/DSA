@@ -1,11 +1,11 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 14,
+    "easy": 15,
     "medium": 11,
     "hard": 4,
     "basic": 0
@@ -39,7 +39,8 @@
     "LeetCode_Divisor_Game": true,
     "LeetCode_Maximum_Repeating_Substring": true,
     "LeetCode_Third_Maximum_Number": true,
-    "LeetCode_Array_Partition": true
+    "LeetCode_Array_Partition": true,
+    "LeetCode_Relative_Ranks": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -48,10 +49,11 @@
     "2026-08-17": 2,
     "2026-08-18": 4,
     "2026-08-19": 2,
-    "2026-08-21": 2
+    "2026-08-21": 3
   },
   "todayProblems": [
     "Third Maximum Number",
-    "Array Partition"
+    "Array Partition",
+    "Relative Ranks"
   ]
 }
