@@ -1,11 +1,11 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 11,
     "hard": 4,
     "basic": 0
@@ -40,7 +40,8 @@
     "LeetCode_Maximum_Repeating_Substring": true,
     "LeetCode_Third_Maximum_Number": true,
     "LeetCode_Array_Partition": true,
-    "LeetCode_Relative_Ranks": true
+    "LeetCode_Relative_Ranks": true,
+    "LeetCode_Longest_Harmonious_Subsequence": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -49,11 +50,12 @@
     "2026-08-17": 2,
     "2026-08-18": 4,
     "2026-08-19": 2,
-    "2026-08-21": 3
+    "2026-08-21": 4
   },
   "todayProblems": [
     "Third Maximum Number",
     "Array Partition",
-    "Relative Ranks"
+    "Relative Ranks",
+    "Longest Harmonious Subsequence"
   ]
 }
