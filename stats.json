@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-21",
-  "todayCount": 5,
+  "lastSyncDate": "2026-08-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 11,
+    "medium": 12,
     "hard": 4,
     "basic": 0
   },
@@ -42,7 +42,8 @@
     "LeetCode_Array_Partition": true,
     "LeetCode_Relative_Ranks": true,
     "LeetCode_Longest_Harmonious_Subsequence": true,
-    "LeetCode_Maximum_Product_of_Three_Numbers": true
+    "LeetCode_Maximum_Product_of_Three_Numbers": true,
+    "LeetCode_Find_All_Numbers_Disappeared_in_an_Array_II": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -51,13 +52,10 @@
     "2026-08-17": 2,
     "2026-08-18": 4,
     "2026-08-19": 2,
-    "2026-08-21": 5
+    "2026-08-21": 5,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Third Maximum Number",
-    "Array Partition",
-    "Relative Ranks",
-    "Longest Harmonious Subsequence",
-    "Maximum Product of Three Numbers"
+    "Find All Numbers Disappeared in an Array II"
   ]
 }
