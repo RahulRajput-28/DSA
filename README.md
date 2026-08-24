@@ -34,3 +34,4 @@
 | 32 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 21 Aug 2026 | 09:43 pm |
 | 33 | [Find All Numbers Disappeared in an Array II](./LeetCode/Medium/Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii/) | Medium | 23 Aug 2026 | 07:43 pm |
 | 34 | [Check ASCII Palindromic](./LeetCode/Easy/Check%20ASCII%20Palindromic) | [LeetCode](https://leetcode.com/problems/check-ascii-palindromic/) | Easy | 23 Aug 2026 | 07:45 pm |
+| 35 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 25 Aug 2026 | 12:43 am |
