@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 13,
+    "medium": 14,
     "hard": 4,
     "basic": 0
   },
@@ -46,7 +46,8 @@
     "LeetCode_Find_All_Numbers_Disappeared_in_an_Array_II": true,
     "LeetCode_Check_ASCII_Palindromic": true,
     "LeetCode_Koko_Eating_Bananas": true,
-    "LeetCode_Smallest_Missing_Multiple_of_K": true
+    "LeetCode_Smallest_Missing_Multiple_of_K": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -57,10 +58,11 @@
     "2026-08-19": 2,
     "2026-08-21": 5,
     "2026-08-23": 2,
-    "2026-08-25": 2
+    "2026-08-25": 3
   },
   "todayProblems": [
     "Koko Eating Bananas",
-    "Smallest Missing Multiple of K"
+    "Smallest Missing Multiple of K",
+    "Search in Rotated Sorted Array"
   ]
 }

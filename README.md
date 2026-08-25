@@ -36,3 +36,4 @@
 | 34 | [Check ASCII Palindromic](./LeetCode/Easy/Check%20ASCII%20Palindromic) | [LeetCode](https://leetcode.com/problems/check-ascii-palindromic/) | Easy | 23 Aug 2026 | 07:45 pm |
 | 35 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 25 Aug 2026 | 12:43 am |
 | 36 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 10:39 am |
+| 37 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 25 Aug 2026 | 11:20 am |
