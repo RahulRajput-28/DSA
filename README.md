@@ -38,3 +38,4 @@
 | 36 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 10:39 am |
 | 37 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 25 Aug 2026 | 11:20 am |
 | 38 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 11:44 am |
+| 39 | [Time Based Key-Value Store](./LeetCode/Medium/Time%20Based%20Key-Value%20Store) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) | Medium | 26 Aug 2026 | 02:32 pm |
