@@ -37,3 +37,4 @@
 | 35 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 25 Aug 2026 | 12:43 am |
 | 36 | [Smallest Missing Multiple of K](./LeetCode/Easy/Smallest%20Missing%20Multiple%20of%20K) | [LeetCode](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Easy | 25 Aug 2026 | 10:39 am |
 | 37 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 25 Aug 2026 | 11:20 am |
+| 38 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 11:44 am |

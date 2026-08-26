@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
-  "currentStreak": 1,
+  "totalSolved": 38,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-25",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 14,
+    "medium": 15,
     "hard": 4,
     "basic": 0
   },
@@ -47,7 +47,8 @@
     "LeetCode_Check_ASCII_Palindromic": true,
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Smallest_Missing_Multiple_of_K": true,
-    "LeetCode_Search_in_Rotated_Sorted_Array": true
+    "LeetCode_Search_in_Rotated_Sorted_Array": true,
+    "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -58,11 +59,10 @@
     "2026-08-19": 2,
     "2026-08-21": 5,
     "2026-08-23": 2,
-    "2026-08-25": 3
+    "2026-08-25": 3,
+    "2026-08-26": 1
   },
   "todayProblems": [
-    "Koko Eating Bananas",
-    "Smallest Missing Multiple of K",
-    "Search in Rotated Sorted Array"
+    "Shortest and Lexicographically Smallest Beautiful String"
   ]
 }
