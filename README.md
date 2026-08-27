@@ -40,3 +40,4 @@
 | 38 | [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/Medium/Shortest%20and%20Lexicographically%20Smallest%20Beautiful%20String) | [LeetCode](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | Medium | 26 Aug 2026 | 11:44 am |
 | 39 | [Time Based Key-Value Store](./LeetCode/Medium/Time%20Based%20Key-Value%20Store) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) | Medium | 26 Aug 2026 | 02:32 pm |
 | 40 | [Combine Two Tables](./LeetCode/Easy/Combine%20Two%20Tables) | [LeetCode](https://leetcode.com/problems/combine-two-tables/) | Easy | 26 Aug 2026 | 11:37 pm |
+| 41 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 27 Aug 2026 | 10:47 pm |

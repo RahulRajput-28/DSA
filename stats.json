@@ -1,11 +1,11 @@
 {
-  "totalSolved": 40,
-  "currentStreak": 2,
+  "totalSolved": 41,
+  "currentStreak": 3,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-26",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-27",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 16,
     "hard": 4,
     "basic": 0
@@ -50,7 +50,8 @@
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
     "LeetCode_Shortest_and_Lexicographically_Smallest_Beautiful_String": true,
     "LeetCode_Time_Based_Key-Value_Store": true,
-    "LeetCode_Combine_Two_Tables": true
+    "LeetCode_Combine_Two_Tables": true,
+    "LeetCode_Summary_Ranges": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -62,11 +63,10 @@
     "2026-08-21": 5,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 3
+    "2026-08-26": 3,
+    "2026-08-27": 1
   },
   "todayProblems": [
-    "Shortest and Lexicographically Smallest Beautiful String",
-    "Time Based Key-Value Store",
-    "Combine Two Tables"
+    "Summary Ranges"
   ]
 }
