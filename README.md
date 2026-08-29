@@ -41,3 +41,4 @@
 | 39 | [Time Based Key-Value Store](./LeetCode/Medium/Time%20Based%20Key-Value%20Store) | [LeetCode](https://leetcode.com/problems/time-based-key-value-store/) | Medium | 26 Aug 2026 | 02:32 pm |
 | 40 | [Combine Two Tables](./LeetCode/Easy/Combine%20Two%20Tables) | [LeetCode](https://leetcode.com/problems/combine-two-tables/) | Easy | 26 Aug 2026 | 11:37 pm |
 | 41 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 27 Aug 2026 | 10:47 pm |
+| 42 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 29 Aug 2026 | 02:27 pm |
