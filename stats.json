@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
-  "currentStreak": 1,
+  "totalSolved": 43,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-08-29",
+  "lastSyncDate": "2026-08-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 22,
-    "medium": 16,
+    "medium": 17,
     "hard": 4,
     "basic": 0
   },
@@ -52,7 +52,8 @@
     "LeetCode_Time_Based_Key-Value_Store": true,
     "LeetCode_Combine_Two_Tables": true,
     "LeetCode_Summary_Ranges": true,
-    "LeetCode_Length_of_Last_Word": true
+    "LeetCode_Length_of_Last_Word": true,
+    "LeetCode_Removing_Minimum_and_Maximum_From_Array": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -66,9 +67,10 @@
     "2026-08-25": 3,
     "2026-08-26": 3,
     "2026-08-27": 1,
-    "2026-08-29": 1
+    "2026-08-29": 1,
+    "2026-08-30": 1
   },
   "todayProblems": [
-    "Length of Last Word"
+    "Removing Minimum and Maximum From Array"
   ]
 }
