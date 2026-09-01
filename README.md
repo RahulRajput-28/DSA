@@ -43,3 +43,4 @@
 | 41 | [Summary Ranges](./LeetCode/Easy/Summary%20Ranges) | [LeetCode](https://leetcode.com/problems/summary-ranges/) | Easy | 27 Aug 2026 | 10:47 pm |
 | 42 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 29 Aug 2026 | 02:27 pm |
 | 43 | [Removing Minimum and Maximum From Array](./LeetCode/Medium/Removing%20Minimum%20and%20Maximum%20From%20Array) | [LeetCode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | Medium | 30 Aug 2026 | 11:27 pm |
+| 44 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 01 Sept 2026 | 10:08 pm |
