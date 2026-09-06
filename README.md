@@ -47,3 +47,4 @@
 | 45 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 01 Sept 2026 | 11:49 pm |
 | 46 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 07:56 pm |
 | 47 | [Island Perimeter](./LeetCode/Easy/Island%20Perimeter) | [LeetCode](https://leetcode.com/problems/island-perimeter/) | Easy | 05 Sept 2026 | 11:50 pm |
+| 48 | [Distribute Candies](./LeetCode/Easy/Distribute%20Candies) | [LeetCode](https://leetcode.com/problems/distribute-candies/) | Easy | 06 Sept 2026 | 07:39 pm |
