@@ -48,3 +48,4 @@
 | 46 | [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) | [LeetCode](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | 04 Sept 2026 | 07:56 pm |
 | 47 | [Island Perimeter](./LeetCode/Easy/Island%20Perimeter) | [LeetCode](https://leetcode.com/problems/island-perimeter/) | Easy | 05 Sept 2026 | 11:50 pm |
 | 48 | [Distribute Candies](./LeetCode/Easy/Distribute%20Candies) | [LeetCode](https://leetcode.com/problems/distribute-candies/) | Easy | 06 Sept 2026 | 07:39 pm |
+| 49 | [Teemo Attacking](./LeetCode/Easy/Teemo%20Attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) | Easy | 12 Sept 2026 | 12:15 pm |
