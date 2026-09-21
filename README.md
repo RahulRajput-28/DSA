@@ -50,3 +50,4 @@
 | 48 | [Distribute Candies](./LeetCode/Easy/Distribute%20Candies) | [LeetCode](https://leetcode.com/problems/distribute-candies/) | Easy | 06 Sept 2026 | 07:39 pm |
 | 49 | [Teemo Attacking](./LeetCode/Easy/Teemo%20Attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) | Easy | 12 Sept 2026 | 12:15 pm |
 | 50 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 19 Sept 2026 | 09:44 pm |
+| 51 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 21 Sept 2026 | 11:37 am |

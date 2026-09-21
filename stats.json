@@ -1,12 +1,12 @@
 {
-  "totalSolved": 50,
+  "totalSolved": 51,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-19",
+  "lastSyncDate": "2026-09-21",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 28,
-    "medium": 18,
+    "medium": 19,
     "hard": 4,
     "basic": 0
   },
@@ -60,7 +60,8 @@
     "LeetCode_Island_Perimeter": true,
     "LeetCode_Distribute_Candies": true,
     "LeetCode_Teemo_Attacking": true,
-    "LeetCode_Circle_and_Rectangle_Overlapping": true
+    "LeetCode_Circle_and_Rectangle_Overlapping": true,
+    "LeetCode_Find_X_Value_of_Array_I": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -81,9 +82,10 @@
     "2026-09-05": 1,
     "2026-09-06": 1,
     "2026-09-12": 1,
-    "2026-09-19": 1
+    "2026-09-19": 1,
+    "2026-09-21": 1
   },
   "todayProblems": [
-    "Circle and Rectangle Overlapping"
+    "Find X Value of Array I"
   ]
 }
