@@ -52,3 +52,4 @@
 | 50 | [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) | [LeetCode](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | 19 Sept 2026 | 09:44 pm |
 | 51 | [Find X Value of Array I](./LeetCode/Medium/Find%20X%20Value%20of%20Array%20I) | [LeetCode](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | 21 Sept 2026 | 11:37 am |
 | 52 | [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) | [LeetCode](https://leetcode.com/problems/3sum-closest/) | Medium | 22 Sept 2026 | 07:12 pm |
+| 53 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 28 Sept 2026 | 06:33 pm |
