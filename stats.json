@@ -1,12 +1,12 @@
 {
-  "totalSolved": 53,
-  "currentStreak": 1,
+  "totalSolved": 54,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-09-28",
+  "lastSyncDate": "2026-09-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 29,
-    "medium": 20,
+    "medium": 21,
     "hard": 4,
     "basic": 0
   },
@@ -63,7 +63,8 @@
     "LeetCode_Circle_and_Rectangle_Overlapping": true,
     "LeetCode_Find_X_Value_of_Array_I": true,
     "LeetCode_3Sum_Closest": true,
-    "LeetCode_Next_Greater_Element_I": true
+    "LeetCode_Next_Greater_Element_I": true,
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -87,9 +88,10 @@
     "2026-09-19": 1,
     "2026-09-21": 1,
     "2026-09-22": 1,
-    "2026-09-28": 1
+    "2026-09-28": 1,
+    "2026-09-29": 1
   },
   "todayProblems": [
-    "Next Greater Element I"
+    "Find First and Last Position of Element in Sorted Array"
   ]
 }
