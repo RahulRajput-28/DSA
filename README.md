@@ -55,3 +55,4 @@
 | 53 | [Next Greater Element I](./LeetCode/Easy/Next%20Greater%20Element%20I) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) | Easy | 28 Sept 2026 | 06:33 pm |
 | 54 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 29 Sept 2026 | 10:26 pm |
 | 55 | [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 05 Oct 2026 | 09:21 am |
+| 56 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 05 Oct 2026 | 09:37 am |
