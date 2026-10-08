@@ -57,3 +57,4 @@
 | 55 | [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) | [LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | 05 Oct 2026 | 09:21 am |
 | 56 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 05 Oct 2026 | 09:37 am |
 | 57 | [Fraction to Recurring Decimal](./LeetCode/Medium/Fraction%20to%20Recurring%20Decimal) | [LeetCode](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | 05 Oct 2026 | 10:33 am |
+| 58 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 08 Oct 2026 | 08:28 am |

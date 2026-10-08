@@ -1,11 +1,11 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-05",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-08",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 24,
     "hard": 4,
     "basic": 0
@@ -67,7 +67,8 @@
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Letter_Combinations_of_a_Phone_Number": true,
     "LeetCode_Set_Matrix_Zeroes": true,
-    "LeetCode_Fraction_to_Recurring_Decimal": true
+    "LeetCode_Fraction_to_Recurring_Decimal": true,
+    "LeetCode_Remove_Outermost_Parentheses": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -93,11 +94,10 @@
     "2026-09-22": 1,
     "2026-09-28": 1,
     "2026-09-29": 1,
-    "2026-10-05": 3
+    "2026-10-05": 3,
+    "2026-10-08": 1
   },
   "todayProblems": [
-    "Letter Combinations of a Phone Number",
-    "Set Matrix Zeroes",
-    "Fraction to Recurring Decimal"
+    "Remove Outermost Parentheses"
   ]
 }
