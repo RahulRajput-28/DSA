@@ -1,12 +1,12 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 24,
+    "medium": 25,
     "hard": 4,
     "basic": 0
   },
@@ -69,7 +69,8 @@
     "LeetCode_Set_Matrix_Zeroes": true,
     "LeetCode_Fraction_to_Recurring_Decimal": true,
     "LeetCode_Remove_Outermost_Parentheses": true,
-    "LeetCode_Climbing_Stairs": true
+    "LeetCode_Climbing_Stairs": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -96,10 +97,11 @@
     "2026-09-28": 1,
     "2026-09-29": 1,
     "2026-10-05": 3,
-    "2026-10-08": 2
+    "2026-10-08": 3
   },
   "todayProblems": [
     "Remove Outermost Parentheses",
-    "Climbing Stairs"
+    "Climbing Stairs",
+    "Maximum Subarray"
   ]
 }
