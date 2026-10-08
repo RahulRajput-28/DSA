@@ -58,3 +58,4 @@
 | 56 | [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) | [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | 05 Oct 2026 | 09:37 am |
 | 57 | [Fraction to Recurring Decimal](./LeetCode/Medium/Fraction%20to%20Recurring%20Decimal) | [LeetCode](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | 05 Oct 2026 | 10:33 am |
 | 58 | [Remove Outermost Parentheses](./LeetCode/Easy/Remove%20Outermost%20Parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | 08 Oct 2026 | 08:28 am |
+| 59 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 08 Oct 2026 | 09:15 am |
