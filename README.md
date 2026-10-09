@@ -61,3 +61,4 @@
 | 59 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 08 Oct 2026 | 09:15 am |
 | 60 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 08 Oct 2026 | 09:53 am |
 | 61 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 08 Oct 2026 | 11:03 am |
+| 62 | [Ugly Number](./LeetCode/Easy/Ugly%20Number) | [LeetCode](https://leetcode.com/problems/ugly-number/) | Easy | 09 Oct 2026 | 10:24 pm |
