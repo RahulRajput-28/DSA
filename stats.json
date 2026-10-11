@@ -1,12 +1,12 @@
 {
-  "totalSolved": 65,
+  "totalSolved": 66,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 28,
+    "medium": 29,
     "hard": 4,
     "basic": 0
   },
@@ -75,7 +75,8 @@
     "LeetCode_Ugly_Number": true,
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_Product_of_Array_Except_Self": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Group_Anagrams": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -104,11 +105,12 @@
     "2026-10-05": 3,
     "2026-10-08": 4,
     "2026-10-09": 1,
-    "2026-10-11": 3
+    "2026-10-11": 4
   },
   "todayProblems": [
     "Container With Most Water",
     "Product of Array Except Self",
-    "Subarray Sum Equals K"
+    "Subarray Sum Equals K",
+    "Group Anagrams"
   ]
 }
