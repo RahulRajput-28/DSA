@@ -1,12 +1,12 @@
 {
-  "totalSolved": 62,
-  "currentStreak": 2,
+  "totalSolved": 63,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-09",
+  "lastSyncDate": "2026-10-11",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 25,
+    "medium": 26,
     "hard": 4,
     "basic": 0
   },
@@ -72,7 +72,8 @@
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Maximum_Subarray": true,
     "LeetCode_Longest_Common_Prefix": true,
-    "LeetCode_Ugly_Number": true
+    "LeetCode_Ugly_Number": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -100,9 +101,10 @@
     "2026-09-29": 1,
     "2026-10-05": 3,
     "2026-10-08": 4,
-    "2026-10-09": 1
+    "2026-10-09": 1,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Ugly Number"
+    "Container With Most Water"
   ]
 }
