@@ -1,12 +1,12 @@
 {
-  "totalSolved": 71,
+  "totalSolved": 72,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 33,
+    "medium": 34,
     "hard": 4,
     "basic": 0
   },
@@ -81,7 +81,8 @@
     "LeetCode_Sort_Colors": true,
     "LeetCode_Min_Stack": true,
     "GeeksForGeeks_BFS_of_Graph": true,
-    "LeetCode_Number_of_Islands": true
+    "LeetCode_Number_of_Islands": true,
+    "LeetCode_Rotting_Oranges": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -111,13 +112,14 @@
     "2026-10-08": 4,
     "2026-10-09": 1,
     "2026-10-11": 4,
-    "2026-10-12": 5
+    "2026-10-12": 6
   },
   "todayProblems": [
     "Longest Substring Without Repeating Characters",
     "Sort Colors",
     "Min Stack",
     "BFS of Graph",
-    "Number of Islands"
+    "Number of Islands",
+    "Rotting Oranges"
   ]
 }
