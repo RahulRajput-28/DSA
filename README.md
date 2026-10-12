@@ -69,3 +69,4 @@
 | 67 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 12 Oct 2026 | 07:16 pm |
 | 68 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 12 Oct 2026 | 07:45 pm |
 | 69 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 12 Oct 2026 | 08:04 pm |
+| 70 | [BFS of Graph](./GeeksForGeeks/Easy/BFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 12 Oct 2026 | 09:24 pm |
