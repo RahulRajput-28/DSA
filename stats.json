@@ -1,12 +1,12 @@
 {
-  "totalSolved": 67,
+  "totalSolved": 68,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 33,
-    "medium": 30,
+    "medium": 31,
     "hard": 4,
     "basic": 0
   },
@@ -77,7 +77,8 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
     "LeetCode_Group_Anagrams": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_Sort_Colors": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -107,9 +108,10 @@
     "2026-10-08": 4,
     "2026-10-09": 1,
     "2026-10-11": 4,
-    "2026-10-12": 1
+    "2026-10-12": 2
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters"
+    "Longest Substring Without Repeating Characters",
+    "Sort Colors"
   ]
 }
