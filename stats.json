@@ -1,11 +1,11 @@
 {
-  "totalSolved": 74,
+  "totalSolved": 75,
   "currentStreak": 3,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-13",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 34,
+    "easy": 35,
     "medium": 36,
     "hard": 4,
     "basic": 0
@@ -84,7 +84,8 @@
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Rotting_Oranges": true,
     "LeetCode_Longest_Consecutive_Sequence": true,
-    "LeetCode_Spiral_Matrix": true
+    "LeetCode_Spiral_Matrix": true,
+    "GeeksForGeeks_Meeting_Rooms": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -115,10 +116,11 @@
     "2026-10-09": 1,
     "2026-10-11": 4,
     "2026-10-12": 6,
-    "2026-10-13": 2
+    "2026-10-13": 3
   },
   "todayProblems": [
     "Longest Consecutive Sequence",
-    "Spiral Matrix"
+    "Spiral Matrix",
+    "Meeting Rooms"
   ]
 }
