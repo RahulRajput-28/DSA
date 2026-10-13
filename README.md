@@ -72,3 +72,4 @@
 | 70 | [BFS of Graph](./GeeksForGeeks/Easy/BFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 12 Oct 2026 | 09:24 pm |
 | 71 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 12 Oct 2026 | 09:49 pm |
 | 72 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 12 Oct 2026 | 10:47 pm |
+| 73 | [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | 13 Oct 2026 | 09:47 am |

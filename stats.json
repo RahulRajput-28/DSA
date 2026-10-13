@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
-  "currentStreak": 2,
+  "totalSolved": 73,
+  "currentStreak": 3,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-12",
-  "todayCount": 6,
+  "lastSyncDate": "2026-10-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 34,
+    "medium": 35,
     "hard": 4,
     "basic": 0
   },
@@ -82,7 +82,8 @@
     "LeetCode_Min_Stack": true,
     "GeeksForGeeks_BFS_of_Graph": true,
     "LeetCode_Number_of_Islands": true,
-    "LeetCode_Rotting_Oranges": true
+    "LeetCode_Rotting_Oranges": true,
+    "LeetCode_Longest_Consecutive_Sequence": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -112,14 +113,10 @@
     "2026-10-08": 4,
     "2026-10-09": 1,
     "2026-10-11": 4,
-    "2026-10-12": 6
+    "2026-10-12": 6,
+    "2026-10-13": 1
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters",
-    "Sort Colors",
-    "Min Stack",
-    "BFS of Graph",
-    "Number of Islands",
-    "Rotting Oranges"
+    "Longest Consecutive Sequence"
   ]
 }
