@@ -76,3 +76,4 @@
 | 74 | [Spiral Matrix](./LeetCode/Medium/Spiral%20Matrix) | [LeetCode](https://leetcode.com/problems/spiral-matrix/) | Medium | 13 Oct 2026 | 10:36 am |
 | 75 | [Meeting Rooms](./GeeksForGeeks/Easy/Meeting%20Rooms) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/attend-all-meetings/1) | Easy | 13 Oct 2026 | 10:51 am |
 | 76 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 13 Oct 2026 | 11:15 am |
+| 77 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 14 Oct 2026 | 09:37 pm |

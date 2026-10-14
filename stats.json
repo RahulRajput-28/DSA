@@ -1,12 +1,12 @@
 {
-  "totalSolved": 76,
-  "currentStreak": 3,
+  "totalSolved": 77,
+  "currentStreak": 4,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-13",
-  "todayCount": 4,
+  "lastSyncDate": "2026-10-14",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 37,
+    "medium": 38,
     "hard": 4,
     "basic": 0
   },
@@ -86,7 +86,8 @@
     "LeetCode_Longest_Consecutive_Sequence": true,
     "LeetCode_Spiral_Matrix": true,
     "GeeksForGeeks_Meeting_Rooms": true,
-    "LeetCode_Subsets": true
+    "LeetCode_Subsets": true,
+    "LeetCode_Coin_Change": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -117,12 +118,10 @@
     "2026-10-09": 1,
     "2026-10-11": 4,
     "2026-10-12": 6,
-    "2026-10-13": 4
+    "2026-10-13": 4,
+    "2026-10-14": 1
   },
   "todayProblems": [
-    "Longest Consecutive Sequence",
-    "Spiral Matrix",
-    "Meeting Rooms",
-    "Subsets"
+    "Coin Change"
   ]
 }
