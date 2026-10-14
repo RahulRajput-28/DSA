@@ -78,3 +78,4 @@
 | 76 | [Subsets](./LeetCode/Medium/Subsets) | [LeetCode](https://leetcode.com/problems/subsets/) | Medium | 13 Oct 2026 | 11:15 am |
 | 77 | [Coin Change](./LeetCode/Medium/Coin%20Change) | [LeetCode](https://leetcode.com/problems/coin-change/) | Medium | 14 Oct 2026 | 09:37 pm |
 | 78 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 14 Oct 2026 | 10:00 pm |
+| 79 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 14 Oct 2026 | 10:46 pm |
