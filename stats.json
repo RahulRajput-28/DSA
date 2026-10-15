@@ -1,12 +1,12 @@
 {
-  "totalSolved": 79,
-  "currentStreak": 4,
+  "totalSolved": 80,
+  "currentStreak": 5,
   "maxStreak": 6,
-  "lastSyncDate": "2026-10-14",
-  "todayCount": 3,
+  "lastSyncDate": "2026-10-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 40,
+    "medium": 41,
     "hard": 4,
     "basic": 0
   },
@@ -89,7 +89,8 @@
     "LeetCode_Subsets": true,
     "LeetCode_Coin_Change": true,
     "LeetCode_House_Robber": true,
-    "LeetCode_Permutations": true
+    "LeetCode_Permutations": true,
+    "LeetCode_Word_Break": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -121,11 +122,10 @@
     "2026-10-11": 4,
     "2026-10-12": 6,
     "2026-10-13": 4,
-    "2026-10-14": 3
+    "2026-10-14": 3,
+    "2026-10-15": 1
   },
   "todayProblems": [
-    "Coin Change",
-    "House Robber",
-    "Permutations"
+    "Word Break"
   ]
 }
