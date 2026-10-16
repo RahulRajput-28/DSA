@@ -84,3 +84,4 @@
 | 82 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 16 Oct 2026 | 09:46 pm |
 | 83 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 16 Oct 2026 | 10:04 pm |
 | 84 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 16 Oct 2026 | 10:23 pm |
+| 85 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 16 Oct 2026 | 10:54 pm |
