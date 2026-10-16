@@ -80,3 +80,4 @@
 | 78 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 14 Oct 2026 | 10:00 pm |
 | 79 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 14 Oct 2026 | 10:46 pm |
 | 80 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 15 Oct 2026 | 10:52 am |
+| 81 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 16 Oct 2026 | 09:02 pm |
