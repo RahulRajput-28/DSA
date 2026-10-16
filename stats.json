@@ -1,12 +1,12 @@
 {
-  "totalSolved": 81,
+  "totalSolved": 82,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 42,
+    "medium": 43,
     "hard": 4,
     "basic": 0
   },
@@ -91,7 +91,8 @@
     "LeetCode_House_Robber": true,
     "LeetCode_Permutations": true,
     "LeetCode_Word_Break": true,
-    "LeetCode_Validate_Binary_Search_Tree": true
+    "LeetCode_Validate_Binary_Search_Tree": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -125,9 +126,10 @@
     "2026-10-13": 4,
     "2026-10-14": 3,
     "2026-10-15": 1,
-    "2026-10-16": 1
+    "2026-10-16": 2
   },
   "todayProblems": [
-    "Validate Binary Search Tree"
+    "Validate Binary Search Tree",
+    "Lowest Common Ancestor of a Binary Tree"
   ]
 }

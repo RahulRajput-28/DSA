@@ -81,3 +81,4 @@
 | 79 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 14 Oct 2026 | 10:46 pm |
 | 80 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 15 Oct 2026 | 10:52 am |
 | 81 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 16 Oct 2026 | 09:02 pm |
+| 82 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 16 Oct 2026 | 09:46 pm |
