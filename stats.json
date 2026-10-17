@@ -1,12 +1,12 @@
 {
-  "totalSolved": 86,
+  "totalSolved": 87,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 38,
-    "medium": 44,
+    "medium": 45,
     "hard": 4,
     "basic": 0
   },
@@ -96,7 +96,8 @@
     "LeetCode_Maximum_Depth_of_Binary_Tree": true,
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Binary_Tree_Paths": true,
-    "LeetCode_Next_Permutation": true
+    "LeetCode_Next_Permutation": true,
+    "LeetCode_Find_the_Duplicate_Number": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -131,9 +132,10 @@
     "2026-10-14": 3,
     "2026-10-15": 1,
     "2026-10-16": 5,
-    "2026-10-17": 1
+    "2026-10-17": 2
   },
   "todayProblems": [
-    "Next Permutation"
+    "Next Permutation",
+    "Find the Duplicate Number"
   ]
 }
