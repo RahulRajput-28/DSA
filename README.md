@@ -90,3 +90,4 @@
 | 88 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 18 Oct 2026 | 08:24 pm |
 | 89 | [Gas Station](./LeetCode/Medium/Gas%20Station) | [LeetCode](https://leetcode.com/problems/gas-station/) | Medium | 18 Oct 2026 | 10:03 pm |
 | 90 | [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) | [LeetCode](https://leetcode.com/problems/find-peak-element/) | Medium | 19 Oct 2026 | 10:11 am |
+| 91 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 06:20 pm |

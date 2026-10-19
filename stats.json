@@ -1,11 +1,11 @@
 {
-  "totalSolved": 90,
+  "totalSolved": 91,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 39,
+    "easy": 40,
     "medium": 47,
     "hard": 4,
     "basic": 0
@@ -100,7 +100,8 @@
     "LeetCode_Find_the_Duplicate_Number": true,
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
     "LeetCode_Gas_Station": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "LeetCode_Find_Target_Indices_After_Sorting_Array": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -137,9 +138,10 @@
     "2026-10-16": 5,
     "2026-10-17": 2,
     "2026-10-18": 2,
-    "2026-10-19": 1
+    "2026-10-19": 2
   },
   "todayProblems": [
-    "Find Peak Element"
+    "Find Peak Element",
+    "Find Target Indices After Sorting Array"
   ]
 }
