@@ -1,12 +1,12 @@
 {
-  "totalSolved": 92,
-  "currentStreak": 9,
-  "maxStreak": 9,
-  "lastSyncDate": "2026-10-19",
-  "todayCount": 3,
+  "totalSolved": 93,
+  "currentStreak": 10,
+  "maxStreak": 10,
+  "lastSyncDate": "2026-10-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 40,
-    "medium": 48,
+    "medium": 49,
     "hard": 4,
     "basic": 0
   },
@@ -102,7 +102,8 @@
     "LeetCode_Gas_Station": true,
     "LeetCode_Find_Peak_Element": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
-    "LeetCode_Count_Primes": true
+    "LeetCode_Count_Primes": true,
+    "GeeksForGeeks_Shortest_Distance_in_Binary_Maze": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -139,11 +140,10 @@
     "2026-10-16": 5,
     "2026-10-17": 2,
     "2026-10-18": 2,
-    "2026-10-19": 3
+    "2026-10-19": 3,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Find Peak Element",
-    "Find Target Indices After Sorting Array",
-    "Count Primes"
+    "Shortest Distance in Binary Maze"
   ]
 }
