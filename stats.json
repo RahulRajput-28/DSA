@@ -1,13 +1,13 @@
 {
-  "totalSolved": 93,
+  "totalSolved": 94,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 40,
     "medium": 49,
-    "hard": 4,
+    "hard": 5,
     "basic": 0
   },
   "syncedProblems": {
@@ -103,7 +103,8 @@
     "LeetCode_Find_Peak_Element": true,
     "LeetCode_Find_Target_Indices_After_Sorting_Array": true,
     "LeetCode_Count_Primes": true,
-    "GeeksForGeeks_Shortest_Distance_in_Binary_Maze": true
+    "GeeksForGeeks_Shortest_Distance_in_Binary_Maze": true,
+    "LeetCode_Sum_of_Sortable_Integers": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -141,9 +142,10 @@
     "2026-10-17": 2,
     "2026-10-18": 2,
     "2026-10-19": 3,
-    "2026-10-20": 1
+    "2026-10-20": 2
   },
   "todayProblems": [
-    "Shortest Distance in Binary Maze"
+    "Shortest Distance in Binary Maze",
+    "Sum of Sortable Integers"
   ]
 }

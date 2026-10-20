@@ -93,3 +93,4 @@
 | 91 | [Find Target Indices After Sorting Array](./LeetCode/Easy/Find%20Target%20Indices%20After%20Sorting%20Array) | [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | 19 Oct 2026 | 06:20 pm |
 | 92 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 19 Oct 2026 | 07:12 pm |
 | 93 | [Shortest Distance in Binary Maze](./GeeksForGeeks/Medium/Shortest%20Distance%20in%20Binary%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1) | Medium | 20 Oct 2026 | 03:35 pm |
+| 94 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 11:10 pm |
