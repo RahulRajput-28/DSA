@@ -94,3 +94,4 @@
 | 92 | [Count Primes](./LeetCode/Medium/Count%20Primes) | [LeetCode](https://leetcode.com/problems/count-primes/) | Medium | 19 Oct 2026 | 07:12 pm |
 | 93 | [Shortest Distance in Binary Maze](./GeeksForGeeks/Medium/Shortest%20Distance%20in%20Binary%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1) | Medium | 20 Oct 2026 | 03:35 pm |
 | 94 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 11:10 pm |
+| 95 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 10:00 pm |
