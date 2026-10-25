@@ -1,11 +1,11 @@
 {
-  "totalSolved": 95,
-  "currentStreak": 11,
+  "totalSolved": 96,
+  "currentStreak": 1,
   "maxStreak": 11,
-  "lastSyncDate": "2026-10-21",
+  "lastSyncDate": "2026-10-25",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 40,
+    "easy": 41,
     "medium": 50,
     "hard": 5,
     "basic": 0
@@ -105,7 +105,8 @@
     "LeetCode_Count_Primes": true,
     "GeeksForGeeks_Shortest_Distance_in_Binary_Maze": true,
     "LeetCode_Sum_of_Sortable_Integers": true,
-    "LeetCode_Minimum_Operations_to_Sort_a_String": true
+    "LeetCode_Minimum_Operations_to_Sort_a_String": true,
+    "LeetCode_Valid_Perfect_Square": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -144,9 +145,10 @@
     "2026-10-18": 2,
     "2026-10-19": 3,
     "2026-10-20": 2,
-    "2026-10-21": 1
+    "2026-10-21": 1,
+    "2026-10-25": 1
   },
   "todayProblems": [
-    "Minimum Operations to Sort a String"
+    "Valid Perfect Square"
   ]
 }

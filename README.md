@@ -95,3 +95,4 @@
 | 93 | [Shortest Distance in Binary Maze](./GeeksForGeeks/Medium/Shortest%20Distance%20in%20Binary%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1) | Medium | 20 Oct 2026 | 03:35 pm |
 | 94 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 11:10 pm |
 | 95 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 10:00 pm |
+| 96 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 25 Oct 2026 | 12:57 pm |
