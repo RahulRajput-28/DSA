@@ -96,3 +96,4 @@
 | 94 | [Sum of Sortable Integers](./LeetCode/Hard/Sum%20of%20Sortable%20Integers) | [LeetCode](https://leetcode.com/problems/sum-of-sortable-integers/) | Hard | 20 Oct 2026 | 11:10 pm |
 | 95 | [Minimum Operations to Sort a String](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20a%20String) | [LeetCode](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | 21 Oct 2026 | 10:00 pm |
 | 96 | [Valid Perfect Square](./LeetCode/Easy/Valid%20Perfect%20Square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) | Easy | 25 Oct 2026 | 12:57 pm |
+| 97 | [Convert a Number to Hexadecimal](./LeetCode/Easy/Convert%20a%20Number%20to%20Hexadecimal) | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Easy | 26 Oct 2026 | 11:39 pm |
