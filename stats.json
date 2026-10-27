@@ -1,11 +1,11 @@
 {
-  "totalSolved": 97,
-  "currentStreak": 2,
+  "totalSolved": 98,
+  "currentStreak": 3,
   "maxStreak": 11,
-  "lastSyncDate": "2026-10-26",
+  "lastSyncDate": "2026-10-27",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 42,
+    "easy": 43,
     "medium": 50,
     "hard": 5,
     "basic": 0
@@ -107,7 +107,8 @@
     "LeetCode_Sum_of_Sortable_Integers": true,
     "LeetCode_Minimum_Operations_to_Sort_a_String": true,
     "LeetCode_Valid_Perfect_Square": true,
-    "LeetCode_Convert_a_Number_to_Hexadecimal": true
+    "LeetCode_Convert_a_Number_to_Hexadecimal": true,
+    "LeetCode_Largest_Number_At_Least_Twice_of_Others": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -148,9 +149,10 @@
     "2026-10-20": 2,
     "2026-10-21": 1,
     "2026-10-25": 1,
-    "2026-10-26": 1
+    "2026-10-26": 1,
+    "2026-10-27": 1
   },
   "todayProblems": [
-    "Convert a Number to Hexadecimal"
+    "Largest Number At Least Twice of Others"
   ]
 }
