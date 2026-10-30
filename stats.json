@@ -1,12 +1,12 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 1,
   "maxStreak": 11,
   "lastSyncDate": "2026-10-30",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 43,
-    "medium": 51,
+    "medium": 52,
     "hard": 6,
     "basic": 0
   },
@@ -110,7 +110,8 @@
     "LeetCode_Convert_a_Number_to_Hexadecimal": true,
     "LeetCode_Largest_Number_At_Least_Twice_of_Others": true,
     "LeetCode_Palindromic_Path_Queries_in_a_Tree": true,
-    "LeetCode_Majority_Element_II": true
+    "LeetCode_Majority_Element_II": true,
+    "LeetCode_Maximum_Product_Subarray": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -153,10 +154,11 @@
     "2026-10-25": 1,
     "2026-10-26": 1,
     "2026-10-27": 1,
-    "2026-10-30": 2
+    "2026-10-30": 3
   },
   "todayProblems": [
     "Palindromic Path Queries in a Tree",
-    "Majority Element II"
+    "Majority Element II",
+    "Maximum Product Subarray"
   ]
 }
