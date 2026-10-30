@@ -99,3 +99,4 @@
 | 97 | [Convert a Number to Hexadecimal](./LeetCode/Easy/Convert%20a%20Number%20to%20Hexadecimal) | [LeetCode](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Easy | 26 Oct 2026 | 11:39 pm |
 | 98 | [Largest Number At Least Twice of Others](./LeetCode/Easy/Largest%20Number%20At%20Least%20Twice%20of%20Others) | [LeetCode](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | 27 Oct 2026 | 10:45 pm |
 | 99 | [Palindromic Path Queries in a Tree](./LeetCode/Hard/Palindromic%20Path%20Queries%20in%20a%20Tree) | [LeetCode](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | Hard | 30 Oct 2026 | 12:47 am |
+| 100 | [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | Medium | 30 Oct 2026 | 01:22 pm |
