@@ -104,3 +104,4 @@
 | 102 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 31 Oct 2026 | 11:19 pm |
 | 103 | [First Unique Character in a String](./LeetCode/Easy/First%20Unique%20Character%20in%20a%20String) | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 31 Oct 2026 | 11:26 pm |
 | 104 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 01 Nov 2026 | 12:14 am |
+| 105 | [First and Last in Sorted](./GeeksForGeeks/Medium/First%20and%20Last%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | 01 Nov 2026 | 12:40 am |
