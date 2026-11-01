@@ -106,3 +106,4 @@
 | 104 | [Sort Characters By Frequency](./LeetCode/Medium/Sort%20Characters%20By%20Frequency) | [LeetCode](https://leetcode.com/problems/sort-characters-by-frequency/) | Medium | 01 Nov 2026 | 12:14 am |
 | 105 | [First and Last in Sorted](./GeeksForGeeks/Medium/First%20and%20Last%20in%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1) | Medium | 01 Nov 2026 | 12:40 am |
 | 106 | [Sort 0s, 1s and 2s](./GeeksForGeeks/Medium/Sort%200s%2C%201s%20and%202s) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | Medium | 01 Nov 2026 | 02:12 pm |
+| 107 | [Max Sum Subarray of Size K](./GeeksForGeeks/Easy/Max%20Sum%20Subarray%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | Easy | 01 Nov 2026 | 03:32 pm |
