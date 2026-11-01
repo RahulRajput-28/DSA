@@ -1,0 +1,17 @@
+# Sort 0s, 1s and 2s
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+
+## Solved On
+01 Nov 2026 at 02:12 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1">Sort 0s, 1s and 2s</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong> containing only 0s, 1s, and 2s<strong>.</strong> Sort the array in ascending order.&nbsp;</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [0, 1, 2, 0, 1, 2]
+<strong>Output: </strong>[0, 0, 1, 1, 2, 2]
+<strong>Explanation: </strong>0s, 1s and 2s are segregated into ascending order.</span></pre><pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input: </strong><span style="font-size: 18px;">arr[] = [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1]
+</span><strong style="font-size: 18px;">Output: </strong><span style="font-size: 18px;">[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 2]
+</span><strong style="font-size: 18px;">Explanation: </strong><span style="font-size: 18px;">0s, 1s and 2s are segregated into ascending order.</span></span></pre><p><span style="font-size: 18px;"><strong>Follow up:</strong> Could you come up with a one-pass algorithm using only constant extra space?</span></p>
