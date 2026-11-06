@@ -1,12 +1,12 @@
 {
-  "totalSolved": 109,
+  "totalSolved": 110,
   "currentStreak": 1,
   "maxStreak": 11,
   "lastSyncDate": "2026-11-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 47,
-    "medium": 55,
+    "medium": 56,
     "hard": 7,
     "basic": 0
   },
@@ -119,7 +119,8 @@
     "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_K": true,
     "LeetCode_Minimum_Operations_to_Make_Elements_Within_K_Subarrays_Equal": true,
-    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true
+    "LeetCode_Find_the_Distance_Value_Between_Two_Arrays": true,
+    "GeeksForGeeks_Longest_Consecutive_Subsequence": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -166,9 +167,10 @@
     "2026-10-31": 2,
     "2026-11-01": 4,
     "2026-11-04": 1,
-    "2026-11-06": 1
+    "2026-11-06": 2
   },
   "todayProblems": [
-    "Find the Distance Value Between Two Arrays"
+    "Find the Distance Value Between Two Arrays",
+    "Longest Consecutive Subsequence"
   ]
 }
