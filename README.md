@@ -111,3 +111,4 @@
 | 109 | [Find the Distance Value Between Two Arrays](./LeetCode/Easy/Find%20the%20Distance%20Value%20Between%20Two%20Arrays) | [LeetCode](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | 06 Nov 2026 | 12:11 am |
 | 110 | [Longest Consecutive Subsequence](./GeeksForGeeks/Medium/Longest%20Consecutive%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1) | Medium | 06 Nov 2026 | 01:08 pm |
 | 111 | [Count Zero Request Servers](./LeetCode/Medium/Count%20Zero%20Request%20Servers) | [LeetCode](https://leetcode.com/problems/count-zero-request-servers/) | Medium | 06 Nov 2026 | 11:05 pm |
+| 112 | [Count Servers that Communicate](./LeetCode/Medium/Count%20Servers%20that%20Communicate) | [LeetCode](https://leetcode.com/problems/count-servers-that-communicate/) | Medium | 08 Nov 2026 | 11:58 pm |
