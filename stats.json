@@ -1,13 +1,13 @@
 {
-  "totalSolved": 115,
-  "currentStreak": 1,
+  "totalSolved": 116,
+  "currentStreak": 2,
   "maxStreak": 11,
-  "lastSyncDate": "2026-11-12",
+  "lastSyncDate": "2026-11-13",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 48,
     "medium": 59,
-    "hard": 8,
+    "hard": 9,
     "basic": 0
   },
   "syncedProblems": {
@@ -125,7 +125,8 @@
     "LeetCode_Count_Servers_that_Communicate": true,
     "LeetCode_Find_Servers_That_Handled_Most_Number_of_Requests": true,
     "LeetCode_Climbing_Stairs_II": true,
-    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true
+    "LeetCode_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray": true,
+    "LeetCode_Count_Non-Decreasing_Subarrays_After_K_Operations": true
   },
   "activityHistory": {
     "2026-08-14": 7,
@@ -176,9 +177,10 @@
     "2026-11-08": 1,
     "2026-11-09": 1,
     "2026-11-10": 1,
-    "2026-11-12": 1
+    "2026-11-12": 1,
+    "2026-11-13": 1
   },
   "todayProblems": [
-    "Longest Strictly Increasing or Strictly Decreasing Subarray"
+    "Count Non-Decreasing Subarrays After K Operations"
   ]
 }
